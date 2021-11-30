@@ -22,6 +22,8 @@ Issue tickets follow [BDD](https://en.wikipedia.org/wiki/Behavior-driven_develop
 
 Old Sever-side repo [here](https://github.com/CheoR/pack-it-up-api).
 
+New client-side MERN repo [here](https://github.com/CheoR/pack-it-up-mern-client).
+
 # About Me
 
 Hi, my name's Cheo.
