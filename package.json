@@ -1,0 +1,24 @@
+{
+  "name": "pack-it-up-mern-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "NSS Frontend Capstone Project using MERN stack- inventory CRUD app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inventory, CRUD, MERN, API"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:CheoR/pack-it-up-mern-server.git"
+  },
+  "author": "CheoR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CheoR/pack-it-up-mern-server/issues"
+  },
+  "homepage": "https://github.com/CheoR/pack-it-up-mern-server#readme"
+}
